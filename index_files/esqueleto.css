@@ -1,0 +1,76 @@
+/* This file is auto-generated from a `scss` file with the same name */
+
+.poweredBy body {
+  background: #ffffff;
+  font-family: 'Arial', Helvetica, Arial, sans-serif;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  font-size: 60.25%; }
+
+.poweredBy #contenedor {
+  width: 100%;
+  margin: 0 auto;
+  background: #ffffff; }
+
+.poweredBy .conte {
+  height: 100%;
+  position: relative;
+  margin: 0 auto;
+  background-color: #ffffff;
+  text-align: center; }
+
+.poweredBy #contenedor-black {
+  width: 100%;
+  margin: 0 auto;
+  background: #333333; }
+
+.poweredBy .conte-black {
+  position: relative;
+  margin: 0 auto;
+  max-width: 1200px;
+  background-color: #333333;
+  color: #ffffff;
+  text-align: center; }
+
+.poweredBy *, .poweredBy a, .poweredBy a:hover, .poweredBy a:active, .poweredBy a:visited {
+  outline: none !important; }
+
+.poweredBy img {
+  border: none; }
+
+.poweredBy .col_100 {
+  float: left;
+  position: relative;
+  width: 100%; }
+
+.poweredBy .col_100_p {
+  float: left;
+  position: relative;
+  width: 98%;
+  margin: 0 1%; }
+
+.poweredBy p {
+  font-size: 14px;
+  padding: 10px 0;
+  vertical-align: bottom; }
+
+.poweredBy a {
+  color: #333333;
+  text-decoration: none; }
+
+.poweredBy a.black {
+  color: #ffffff;
+  text-decoration: none; }
+
+.poweredBy a:hover {
+  text-decoration: underline; }
+
+.poweredBy .align_center {
+  text-align: center; }
+
+.poweredBy .align_left {
+  text-align: left; }
+
+.poweredBy .align_right {
+  text-align: right; }
